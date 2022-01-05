@@ -1,0 +1,16 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "GPL",
+  "type": "module",
+  "dependencies": {
+    "got": "12.0.0",
+    "prompt": "1.2.0"
+  }
+}
